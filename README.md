@@ -61,6 +61,20 @@ Webエンジニアとして、HTML / CSS / JavaScript / PHPを用いたWebサイ
 - React
 - TypeScript
 
+Webサービスの個人開発やQiitaでの発信・LT登壇など、積極的なアウトプットを通して、日々技術への理解に努めています。
+
+##### 個人開発
+- [ショッピングカート デモ](https://github.com/Naughty1029/React-Shopping-Cart) - 製作中
+- [Wordle](https://github.com/Naughty1029/React-Wordle) - 2022/7
+- [都道府県別人口推移グラフ](https://github.com/Naughty1029/Population-Transition-Chart) - 2022/6
+- [仕事でよく使う計算ができるアプリ](https://github.com/Naughty1029/React-Calculator) - 2022/6
+- [簡易時計](https://github.com/Naughty1029/React-Clock) - 2022/4
+- [PORTFOLIO](https://github.com/Naughty1029/my-portfolio) - 2022/3
+- [Animal Sounds](https://github.com/Naughty1029/animal-sounds) - 2022/2
+
+##### Qiita記事は[こちら](https://qiita.com/Naughty1029)からご覧ください
+##### 登壇履歴は[こちら](#登壇歴)に記載しています
+
 ---
 
 ## 口頭言語
