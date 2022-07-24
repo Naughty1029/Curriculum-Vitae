@@ -191,4 +191,4 @@ SCSS / JavaScript / jQuery / gulp / WordPress など
 |日付|イベント| 資料 |
 |---|-----|-----|
 |2019/07/30|[STUDIOクリエイターズオーディション](https://school.dhw.co.jp/p/studio_audition/) |[Speaker Deck](https://speakerdeck.com/naughty1029/zhao-ri-xin-wen-fan-mai-dian-hpzhi-zuo)|
-|2022/07/25|[さくらのマイクロコミュニティ（Webサービス開発者の会）](https://sakura-tokyo.connpass.com/event/254064/) |準備中|
+|2022/07/25|[さくらのマイクロコミュニティ（Webサービス開発者の会）](https://sakura-tokyo.connpass.com/event/254064/) |[Speaker Deck](https://speakerdeck.com/naughty1029/react-calculator)|
