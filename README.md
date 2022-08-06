@@ -64,7 +64,6 @@ Webエンジニアとして、HTML / CSS / JavaScript / PHPを用いたWebサイ
 Webサービスの個人開発やQiitaでの発信・LT登壇など、積極的なアウトプットを通して、日々技術への理解に努めています。
 
 ##### 個人開発
-- [ショッピングカート デモ](https://github.com/Naughty1029/React-Shopping-Cart) - 製作中
 - [Wordle](https://github.com/Naughty1029/React-Wordle) - 2022/7
 - [都道府県別人口推移グラフ](https://github.com/Naughty1029/Population-Transition-Chart) - 2022/6
 - [仕事でよく使う計算ができるアプリ](https://github.com/Naughty1029/React-Calculator) - 2022/6
@@ -95,7 +94,7 @@ Qiita参考記事
 ## 強み
 - 獲得した知見を自分の中だけで消化せずに、周りへ共有する発信力
 - 自ら新しい技術を学んでいく向上心
-- 営業職の経験で培ったプレゼンテーション能力
+- 営業職の経験で培った伝達能力
 - 抽象的なものごとでも数値や図解にして落とし込める論理構成力
 
 ---
@@ -104,6 +103,7 @@ Qiita参考記事
 - React / TypeScriptなどのモダンフロントエンド技術を利用したWebアプリケーション開発
 - テックリードとしてチーム開発を牽引できるポジション
 - プロジェクトマネージャーのようにビジネス領域に近いポジション
+- サービスや製品に対して深くコミットして、より洗練されたものを作ること
 
 ---
 
