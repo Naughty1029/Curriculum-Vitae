@@ -57,9 +57,13 @@ Webエンジニアとして、HTML / CSS / JavaScript / PHPを用いたWebサイ
 |WordPress|2年|指示通り作業が可能|
 |Vagrant|1年|調べながら環境構築が可能|
 
-### キャッチアップ中
+### キャッチアップしたいこと
 - React
 - TypeScript
+- Xamaring
+- C#
+- AWS
+- 
 
 Webサービスの個人開発やQiitaでの発信・LT登壇など、積極的なアウトプットを通して、日々技術への理解に努めています。
 
