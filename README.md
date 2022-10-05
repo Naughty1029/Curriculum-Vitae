@@ -57,10 +57,11 @@ Webエンジニアとして、HTML / CSS / JavaScript / PHPを用いたWebサイ
 |WordPress|2年|指示通り作業が可能|
 |Vagrant|1年|調べながら環境構築が可能|
 
-### キャッチアップしたいこと
+### キャッチアップ中
 - React
+- Vue
 - TypeScript
-- Xamaring
+- Xamarin
 - C#
 - AWS
 - Docker
